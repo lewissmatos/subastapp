@@ -1,0 +1,14 @@
+@import "../../App.scss";
+
+.auction-item__container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	width: 220px;
+	height: 250px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

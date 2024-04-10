@@ -1,0 +1,137 @@
+[
+	{
+		"id": 1,
+		"name": "Vintage Wooden Chair",
+		"description": "A beautifully crafted vintage wooden chair in excellent condition.",
+		"status": "Usado",
+		"price": 75,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Vintage"]
+	},
+	{
+		"id": 2,
+		"name": "Modern Leather Sofa",
+		"description": "A modern leather sofa in excellent condition.",
+		"status": "Usado",
+		"price": 399,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Modern"]
+	},
+	{
+		"id": 3,
+		"name": "Antique Coffee Table",
+		"description": "An antique coffee table in excellent condition.",
+		"status": "Usado",
+		"price": 150,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	},
+	{
+		"id": 4,
+		"name": "Vintage Wooden Desk",
+		"description": "A beautifully crafted vintage wooden desk in excellent condition.",
+		"status": "Usado",
+		"price": 200,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Vintage"]
+	},
+	{
+		"id": 5,
+		"name": "Modern Glass Dining Table",
+		"description": "A modern glass dining table in excellent condition.",
+		"status": "Usado",
+		"price": 299,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Modern"]
+	},
+	{
+		"id": 6,
+		"name": "Antique Wooden Wardrobe",
+		"description": "An antique wooden wardrobe in excellent condition.",
+		"status": "Usado",
+		"price": 250,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	},
+	{
+		"id": 7,
+		"name": "Vintage Wooden Bed",
+		"description": "A beautifully crafted vintage wooden bed in excellent condition.",
+		"status": "Usado",
+		"price": 300,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	},
+	{
+		"id": 8,
+		"name": "Modern Leather Armchair",
+		"description": "A modern leather armchair in excellent condition.",
+		"status": "Usado",
+		"price": 150,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Modern"]
+	},
+	{
+		"id": 9,
+		"name": "Antique Wooden Sideboard",
+		"description": "An antique wooden sideboard in excellent condition.",
+		"status": "Usado",
+		"price": 175,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	},
+	{
+		"id": 10,
+		"name": "Vintage Wooden Bookcase",
+		"description": "A beautifully crafted vintage wooden bookcase in excellent condition.",
+		"status": "Usado",
+		"price": 100,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Vintage"]
+	},
+	{
+		"id": 11,
+		"name": "Modern Glass TV Stand",
+		"description": "A modern glass TV stand in excellent condition.",
+		"status": "Usado",
+		"price": 75,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Modern"]
+	},
+	{
+		"id": 12,
+		"name": "Antique Wooden Dresser",
+		"description": "An antique wooden dresser in excellent condition.",
+		"status": "Usado",
+		"price": 125,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	},
+	{
+		"id": 13,
+		"name": "Vintage Wooden Side Table",
+		"description": "A beautifully crafted vintage wooden side table in excellent condition.",
+		"status": "Usado",
+		"price": 50,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Vintage"]
+	},
+	{
+		"id": 14,
+		"name": "Modern Leather Ottoman",
+		"description": "A modern leather ottoman in excellent condition.",
+		"status": "Usado",
+		"price": 100,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Modern"]
+	},
+	{
+		"id": 15,
+		"name": "Antique Wooden Bench",
+		"description": "An antique wooden bench in excellent condition.",
+		"status": "Usado",
+		"price": 75,
+		"limitDate": "2023-01-01T00:00:00.000Z",
+		"categories": ["Furniture", "Antique"]
+	}
+]

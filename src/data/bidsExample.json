@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"bidderName": "John Doe",
+		"amount": 500,
+		"date": "2022-01-01T10:00:00Z"
+	},
+	{
+		"id": 2,
+		"bidderName": "Jane Smith",
+		"amount": 600,
+		"date": "2022-01-02T11:00:00Z"
+	},
+	{
+		"id": 3,
+		"bidderName": "Bob Johnson",
+		"amount": 700,
+		"date": "2022-01-03T12:00:00Z"
+	}
+]

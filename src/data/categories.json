@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Antiques"
+	},
+	{
+		"id": 2,
+		"name": "Art"
+	},
+	{
+		"id": 3,
+		"name": "Books"
+	},
+	{
+		"id": 4,
+		"name": "Cars"
+	},
+	{
+		"id": 5,
+		"name": "Electronics"
+	},
+	{
+		"id": 6,
+		"name": "Fashion"
+	},
+	{
+		"id": 7,
+		"name": "Furniture"
+	},
+	{
+		"id": 8,
+		"name": "Jewelry"
+	},
+	{
+		"id": 9,
+		"name": "Musical Instruments"
+	},
+	{
+		"id": 10,
+		"name": "Real Estate"
+	},
+	{
+		"id": 11,
+		"name": "Sports & Outdoors"
+	},
+	{
+		"id": 12,
+		"name": "Toys & Games"
+	}
+]
